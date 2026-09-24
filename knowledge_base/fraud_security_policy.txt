@@ -1,0 +1,11 @@
+FRAUD AND SECURITY POLICY
+
+Unauthorized Transactions: Customers must report unauthorized transactions within 3 business days of noticing them to be eligible for a full refund. Reports made between 4-7 days may result in partial liability up to $500. Reports after 7 days may not be eligible for refund.
+
+Card Blocking: Customers can block a lost or stolen card immediately via the mobile app, website, or by calling the 24/7 fraud helpline at 1-800-555-0199.
+
+Two-Factor Authentication: All online transactions above $200 require two-factor authentication (OTP sent to registered mobile number).
+
+Identity Theft: In cases of suspected identity theft, customers must file a police report and submit it to the bank within 5 business days to initiate a formal investigation.
+
+Account Freeze: The bank reserves the right to temporarily freeze an account showing suspicious activity, such as multiple failed login attempts or unusual transaction patterns, pending customer verification.
